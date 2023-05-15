@@ -1,0 +1,2 @@
+En este proyecto aprendi sobre como conectar una api y utilizarla mediante JS
+Tambien reforce los conocimientos que tenia sobre html y css
